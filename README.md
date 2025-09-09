@@ -233,15 +233,4 @@ wp forcoder template update landing title "Desenvolvimento de Sistemas em {city}
 
 ## 📄 Licença
 
-Este projeto é disponibilizado sob a licença que você preferir definir para o repositório (ex.: MIT).
-Inclua o arquivo `LICENSE` na raiz do plugin.
-
----
-
-## 🖼️ Screenshots (opcional)
-
-* **Painel** – KPIs, geração e listagem
-* **Editor de templates** – campos e preview
-* **Página-índice** – lista de cidades
-
-> Adicione capturas em `assets/` e referencie-as aqui.
+Este projeto é disponibilizado sob a licença MIT. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
